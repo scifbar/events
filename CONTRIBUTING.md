@@ -9,7 +9,7 @@ is announced when the draft is shared; after that, the organizer finalizes and p
 - Or fork, branch, and open a pull request the usual way if you're comfortable with git.
 
 **If you don't have a GitHub account:**
-- Reply by email to nikolai@scifbar.dk, or comment on the shared Google Doc, with your suggested
-  change and which section it applies to.
+- Reply by email to nikolai@scifbar.dk, or comment in the shared review document when one is
+  circulated, with your suggested change and which section it applies to.
 
 All suggestions are reviewed by the organizer and merged at their discretion before the deadline.

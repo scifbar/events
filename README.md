@@ -6,7 +6,7 @@ This repo holds the public write-up, slides, and other public materials for each
 
 ## Events
 
-- [2026-09 GEUS Kickoff](2026.09_Kickoff_GEUS/)
+- [#1, 2026-09-18, GEUS - Local AI for confidential subsurface data](2026-09-geus/)
 
 ## Contributing
 
