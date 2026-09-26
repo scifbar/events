@@ -2,7 +2,8 @@
 
 [Scientific Friday Bar](https://scifbar.dk) is a recurring, informal session connecting
 organizations with concrete AI use cases and data scientists who want to work on real problems.
-This repo holds the public write-up, slides, and other public materials for each event.
+This repo holds the write-up, slides, and other materials for each event that the host has
+agreed to make public.
 
 ## Events
 
