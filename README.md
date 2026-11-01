@@ -8,6 +8,7 @@ agreed to make public.
 ## Events
 
 - [#1, 2026-09-18, GEUS - Local AI for confidential subsurface data](2026-09-geus/)
+- [#2, 2026-10-30, GEUS - Harness vs naive RAG: the numbers](2026-10-geus/)
 
 ## Contributing
 
